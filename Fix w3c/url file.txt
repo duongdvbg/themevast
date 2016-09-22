@@ -1,6 +1,0 @@
-1. app\design\frontend\tv_themevast_package\theme_name\Magento_Catalog
-2. app\design\frontend\tv_themevast_package\theme_name\Magento_Review
-3. app\design\frontend\tv_themevast_package\theme_name\Magento_Search\templates\form.mini.phtml
-4. app\code\Themevast\SlideBanner\Block\Slider.php
-5. vendor\magento\framework\View\Page\Config\Renderer.php
-6. app\design\frontend\tv_themevast_package\theme_name\Themevast_Blog\templates\sidebar\slider.phtml
